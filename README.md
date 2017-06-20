@@ -1,5 +1,5 @@
-# Zedboard Template <!-- Replace this line with the project name -->
+# Zedboard OLED Demo
 Created for Vivado 2016.4
 
-[Link to the project wiki](https://reference.digilentinc.com/doku.php)
+[Link to the project wiki](https://reference.digilentinc.com/doku.php) <Does not exist yet>
 
