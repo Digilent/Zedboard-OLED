@@ -26,14 +26,14 @@ Make sure to turn off the OLED display before shutting down or reprogramming you
 Requirements
 --------------
 * **Zedboard**:To purchase a Zedboard, see the [Digilent Store](https://store.digilentinc.com/zedboard-zynq-7000-arm-fpga-soc-development-board/)
-* **Vivado 2018.2 Installation**:To set up Vivado, see the [Installing Vivado and Digilent Board Files Tutorial](https://reference.digilentinc.com/vivado/installing-vivado/start).
+* **Vivado 2020.1 Installation**:To set up Vivado, see the [Installing Vivado and Digilent Board Files Tutorial](https://reference.digilentinc.com/vivado/installing-vivado/start).
 * **Serial Terminal Emulator Application**: For more information see the [Installing and Using a Terminal Emulator Tutorial](https://reference.digilentinc.com/learn/programmable-logic/tutorials/tera-term).
 * **MicroUSB Cable**
  
 Demo Setup
 --------------
 1. Download and extract the most recent release ZIP archive from this repository's [Releases Page](https://github.com/Digilent/Zedboard-OLED/releases).
-2. Open the project in Vivado 2018.2 by double clicking on the included XPR file found at "\<archive extracted location\>/vivado_proj/Zedboard-OLED.xpr".
+2. Open the project in Vivado 2020.1 by double clicking on the included XPR file found at "\<archive extracted location\>/vivado_proj/Zedboard-OLED.xpr".
 3. In the Flow Navigator panel on the left side of the Vivado window, click **Open Hardware Manager**.
 4. Plug the Zedboard into the computer using a MicroUSB cable.
 5. In the green bar at the top of the Vivado window, click **Open target**. Select **Auto connect** from the drop down menu.
