@@ -1,6 +1,11 @@
 Zedboard OLED Demo
 ==============
 
+Outdated notice
+--------------
+
+This repository is outdated and will not be maintained further.  Find the latest updates in [Digilent/Zedboard, branch OLED/master or the OLED/\* tags](https://github.com/Digilent/Zedboard/tree/OLED/master).
+
 Description
 --------------
 This project is a Vivado demo using the Zedboard's LEDs, pushbuttons and OLED Display written in Verilog. When programmed onto the board,  the display will automatically be initialized. When you are done operating the demo, and want to turn your board off, press the CPU Reset Button to turn the display off. LED0 is tied to the status of the OLED display. If the LED0 is on so is the OLED display. The display can be turned on from an off state by pressing the CPU Reset Button again. The OLED Display is controlled by the BTNR, BTNU, BTNC and BTND of the D-Pad Buttons as shown in the table below.
